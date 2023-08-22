@@ -29,7 +29,7 @@ Here's a little about me:
 - 🧠 Frameworks: Keras, H2O.ai, XGBoost
 
 <!-- GitHub Stats -->
-## GitHub Stats:
+<!--## GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bjothomas&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)
 
