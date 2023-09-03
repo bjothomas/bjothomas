@@ -36,7 +36,7 @@ Here's a little about me:
 <!-- Top Languages -->
 ## Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernameBjothomas=&layout=compact&theme=radical)
 
 <!-- Projects -->
 ## Featured Projects:
