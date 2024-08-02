@@ -4,7 +4,7 @@
 <!-- Introduction -->
 Here's a little about me:
 
-- 🌱 Currently, I'm pursuing my bachelor's degree in Artificial Intelligence and Data Science.
+- 🌱 Currently, I'm have completed my bachelor's degree in Artificial Intelligence and Data Science.
 - 💬 Feel free to ask me anything related to AI, data, or tech in general!
 - 📫 Reach me at [bijopulickassery@gmail.com](mailto:bijopulickassery@example.com)
 <!-- 👯 I’m looking to collaborate on [Open Source Project Name].-->
