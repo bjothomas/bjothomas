@@ -56,7 +56,7 @@ disease surveillance and timely intervention for improved prevention in the poul
 <!--[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bijothomas13)
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=bjothomas)
 
 <!-- Footer -->
 <hr />
