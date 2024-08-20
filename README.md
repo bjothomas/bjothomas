@@ -23,10 +23,9 @@ Here's a little about me:
 ## My Tech Stack:
 
 - 💻 Programming Languages: Python, R, C++
-- 🛠️ AI Tools: TensorFlow, PyTorch, scikit-learn
-- 📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit), spaCy
+- 📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit)
 - 📦 Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
-- 🧠 Frameworks: Keras, H2O.ai, XGBoost
+- 🧠 Frameworks: Keras, Tensorflow, PyTorch
 
 <!-- GitHub Stats -->
 <!--## GitHub Stats:
