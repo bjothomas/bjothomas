@@ -22,7 +22,7 @@ Here's a little about me:
 <!-- Tech Stack -->
 ## My Tech Stack:
 
-- 💻 Programming Languages: Python, R, C++
+- 💻 Programming Languages: Python, C++
 - 📚 AI Libraries: OpenCV, NLTK (Natural Language Toolkit)
 - 📦 Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - 🧠 Frameworks: Keras, Tensorflow, PyTorch
