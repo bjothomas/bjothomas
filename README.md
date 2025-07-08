@@ -13,7 +13,7 @@ Here's a little about me:
 
 [<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/000000/blogger.png" />](https://boliviandiaries1968.blogspot.com/)
 [<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/bjothomas)
-[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/yourusernam)
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />](https://twitter.com/)
 [<img align="left" alt="Instagram" width="32px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/bjothomas)
 [<img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluent/48/000000/github.png" />](https://github.com/Bjothomas)
 
