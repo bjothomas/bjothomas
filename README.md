@@ -33,7 +33,7 @@ Here's a little about me:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bjothomas&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)
 
 <!-- Top Languages -->
-## Top Languages:
+<!--## Top Languages:
 
 <!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjothomas&layout=compact&theme=radical)-->
 
